@@ -59,14 +59,14 @@ a:hover {
     padding-top: 10px;
 }
 
-#barra {
+.barra {
     background-color: white;
     width:100px;
     margin-top: 7px;
     margin-bottom: 20px;
 }
 
-#barrad {
+.barrad {
     background-color: red;
     width:70px;
 }
